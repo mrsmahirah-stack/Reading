@@ -1,0 +1,18 @@
+# Exclude photos and videos (too large for git, stored in OneDrive)
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+*.mp4
+*.MP4
+*.mov
+*.MOV
+
+# Exclude web pages saved locally
+*.htm
+*.html
+
+# Specific large files (>100MB, too large for GitHub)
+03_Hatchery-and-Culture/e1f5e5b74b7729dc516975906ff235ec.pdf
